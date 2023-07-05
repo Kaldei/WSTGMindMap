@@ -1,0 +1,2 @@
+- [ ] WSTG-ERRH-01 — Testing for Improper Error Handling
+- [-] WSTG-ERRH-02 — Testing for Stack Traces **(Merged into Testing for Improper Error Handling)**

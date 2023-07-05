@@ -1,0 +1,10 @@
+- [ ] WSTG-ATHN-01 — Testing for Credentials Transported over an Encrypted Channel
+- [ ] WSTG-ATHN-02 — Testing for Default Credentials
+- [ ] WSTG-ATHN-03 — Testing for Weak Lock Out Mechanism
+- [ ] WSTG-ATHN-04 — Testing for Bypassing Authentication Schema
+- [ ] WSTG-ATHN-05 — Testing for Vulnerable Remember Password
+- [ ] WSTG-ATHN-06 — Testing for Browser Cache Weakness
+- [ ] WSTG-ATHN-07 — Testing for Weak Password Policy
+- [ ] WSTG-ATHN-08 — Testing for Weak Security Question Answer
+- [ ] WSTG-ATHN-09 — Testing for Weak Password Change or Reset Functionalities
+- [ ] WSTG-ATHN-10 — Testing for Weaker Authentication in Alternative Channel

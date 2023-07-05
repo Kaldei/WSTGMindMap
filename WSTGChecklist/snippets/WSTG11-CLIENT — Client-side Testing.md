@@ -1,0 +1,13 @@
+- [ ] WSTG-CLNT-01 — Testing for DOM Based Cross Site Scripting
+- [ ] WSTG-CLNT-02 — Testing for JavaScript Execution
+- [ ] WSTG-CLNT-03 — Testing for HTML Injection
+- [ ] WSTG-CLNT-04 — Testing for Client-Side URL Redirect
+- [ ] WSTG-CLNT-05 — Testing for CSS Injection
+- [ ] WSTG-CLNT-06 — Testing for Client-Side Resource Manipulation
+- [ ] WSTG-CLNT-07 — Test Cross Origin Resource Sharing
+- [ ] WSTG-CLNT-08 — Testing for Cross Site Flashing
+- [ ] WSTG-CLNT-09 — Testing for Clickjacking
+- [ ] WSTG-CLNT-10 — Testing WebSockets
+- [ ] WSTG-CLNT-11 — Test Web Messaging
+- [ ] WSTG-CLNT-12 — Test Browser Storage
+- [ ] WSTG-CLNT-13 — Testing for Cross Site Script Inclusion

@@ -1,0 +1,1 @@
+- [ ] WSTG-APIT-01 — Testing GraphQL

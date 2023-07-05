@@ -1,0 +1,10 @@
+- [ ] WSTG-SESS-01 — Testing for Session Management Schema
+- [ ] WSTG-SESS-02 — Testing for Cookies Attributes
+- [ ] WSTG-SESS-03 — Testing for Session Fixation
+- [ ] WSTG-SESS-04 — Testing for Exposed Session Variables
+- [ ] WSTG-SESS-05 — Testing for Cross Site Request Forgery
+- [ ] WSTG-SESS-06 — Testing for Logout Functionality
+- [ ] WSTG-SESS-07 — Testing Session Timeout
+- [ ] WSTG-SESS-08 — Testing for Session Puzzling
+- [ ] WSTG-SESS-09 — Testing for Session Hijacking
+- [-] WSTG-SESS-10 — Testing JSON Web Tokens **(Work in Progress in latest WSTG)**

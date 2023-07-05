@@ -1,0 +1,5 @@
+- [ ] WSTG-IDNT-01 — Test Role Definitions
+- [ ] WSTG-IDNT-02 — Test User Registration Process
+- [ ] WSTG-IDNT-03 — Test Account Provisioning Process
+- [ ] WSTG-IDNT-04 — Testing for Account Enumeration and Guessable User Account
+- [ ] WSTG-IDNT-05 — Testing for Weak or Unenforced Username Policy

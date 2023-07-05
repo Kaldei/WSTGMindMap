@@ -1,0 +1,4 @@
+- [ ] WSTG-CRYP-01 — Testing for Weak Transport Layer Security
+- [ ] WSTG-CRYP-02 — Testing for Padding Oracle
+- [ ] WSTG-CRYP-03 — Testing for Sensitive Information Sent Via Unencrypted Channels
+- [ ] WSTG-CRYP-04 — Testing for Weak Encryption

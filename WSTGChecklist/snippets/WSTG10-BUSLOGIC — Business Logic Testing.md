@@ -1,0 +1,9 @@
+- [ ] WSTG-BUSL-01 — Test Business Logic Data Validation
+- [ ] WSTG-BUSL-02 — Test Ability to Forge Requests
+- [ ] WSTG-BUSL-03 — Test Integrity Checks
+- [ ] WSTG-BUSL-04 — Test for Process Timing
+- [ ] WSTG-BUSL-05 — Test Number of Times a Function Can Be Used Limits
+- [ ] WSTG-BUSL-06 — Testing for the Circumvention of Work Flows
+- [ ] WSTG-BUSL-07 — Test Defenses Against Application Misuse
+- [ ] WSTG-BUSL-08 — Test Upload of Unexpected File Types
+- [ ] WSTG-BUSL-09 — Test Upload of Malicious Files

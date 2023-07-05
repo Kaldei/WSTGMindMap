@@ -1,0 +1,4 @@
+- [ ] WSTG-ATHZ-01 — Testing Directory Traversal File Include                          
+- [ ] WSTG-ATHZ-02 — Testing for Bypassing Authorization Schema                        
+- [ ] WSTG-ATHZ-03 — Testing for Privilege Escalation                                  
+- [ ] WSTG-ATHZ-04 — Testing for Insecure Direct Object References     

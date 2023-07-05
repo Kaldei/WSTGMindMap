@@ -1,0 +1,19 @@
+- [ ] WSTG-INPV-01 — Testing for Reflected Cross Site Scripting
+- [ ] WSTG-INPV-02 — Testing for Stored Cross Site Scripting
+- [ ] WSTG-INPV-03 — Testing for HTTP Verb Tampering
+- [ ] WSTG-INPV-04 — Testing for HTTP Parameter pollution
+- [ ] WSTG-INPV-05 — Testing for SQL Injection
+- [ ] WSTG-INPV-06 — Testing for LDAP Injection
+- [ ] WSTG-INPV-07 — Testing for XML Injection
+- [ ] WSTG-INPV-08 — Testing for SSI Injection
+- [ ] WSTG-INPV-09 — Testing for XPath Injection
+- [ ] WSTG-INPV-10 — Testing for IMAP SMTP Injection
+- [ ] WSTG-INPV-11 — Testing for Code Injection
+- [ ] WSTG-INPV-12 — Testing for Command Injection
+- [ ] WSTG-INPV-13 — Testing for Format String Injection
+- [ ] WSTG-INPV-14 — Testing for Incubated Vulnerabilities
+- [ ] WSTG-INPV-15 — Testing for HTTP Splitting Smuggling
+- [ ] WSTG-INPV-16 — Testing for HTTP Incoming Requests
+- [ ] WSTG-INPV-17 — Testing for Host Header Injection
+- [ ] WSTG-INPV-18 — Testing for Server-Side Template Injection
+- [ ] WSTG-INPV-19 — Testing for Server-Side Request Forgery

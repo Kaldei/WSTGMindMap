@@ -1,0 +1,3 @@
+#fingerprinting
+
+- Check `Server` header  
