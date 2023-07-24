@@ -206,7 +206,7 @@
 		{"type":"file","file":"WSTGMap/snippets/DOC - XML Document Type Definition (DTD).md","id":"91415a64b4ab429b","x":-9323,"y":17221,"width":1023,"height":672},
 		{"type":"file","file":"WSTGMap/snippets/XML INJECTION - Blind XXE Detection (Out of Band Interaction).md","id":"bdf90ec4f9533bfc","x":-6780,"y":18184,"width":1023,"height":890},
 		{"type":"file","file":"WSTGMap/snippets/XML INJECTION - Partial XML Control.md","id":"bfdb7df814bc658c","x":-5657,"y":18389,"width":967,"height":760},
-		{"type":"file","file":"WSTGMap/snippets/XSS - Cookie Stealer.md","id":"91743e219706f33e","x":-8063,"y":8420,"width":1023,"height":680},
+		{"type":"file","file":"WSTGMap/snippets/XSS - Exfiltrate Data.md","id":"91743e219706f33e","x":-8063,"y":8420,"width":1023,"height":680},
 		{"type":"file","file":"WSTGMap/snippets/XSS - Make User Do Something on the Website.md","id":"e53b3f89e14d7cd6","x":-8063,"y":9133,"width":1023,"height":240},
 		{"type":"file","file":"WSTGMap/snippets/XSS - Filter Bypass.md","id":"ef6f6d099064dd5a","x":-6780,"y":8279,"width":1023,"height":1322},
 		{"type":"file","file":"WSTGMap/snippets/XSS - Basis.md","id":"7aabe440b595d681","x":-5660,"y":8410,"width":967,"height":1060},
