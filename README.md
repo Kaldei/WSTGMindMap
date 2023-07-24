@@ -28,7 +28,7 @@ Create a mind map based on WSTG to help conduct web penetration tests.
 
 
 ---
-## SubNetCalc Visual
+## Mind Map Visual
 <p align="center">
-  <img src="" alt="WSTGMindMap Visual" width="100%">
+  <img src=https://i.ibb.co/wdNNL4t/Mind-Map-Visual.png"" alt="WSTGMindMap Visual" width="100%">
 </p>
