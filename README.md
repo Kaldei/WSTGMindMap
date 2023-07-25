@@ -7,15 +7,15 @@
 ---
 ## Overview
 ### Project goal 
-Create a mind map based on WSTG to help conduct web penetration tests.
+Create a mind map based on the OWASP's WSTG (Web Security Testing Guide) to help conduct web penetration tests.
 
 ### Repo Content
 * **WSTGMindMap:** Notes on various web vulnerabilities (based on the WSTG) in the form of a Mind Map using Obsidian's Canva feature. 
 * **WSGTChecklist:** Just the WSTG as a Markdown checklist.
 
 ### Todo List
-* Complete the Mind Map with the various missing tests and vulnerabilities.
-* Organize the Mind Map websites functionalities and technologies.
+* Complete the Mind Map with missing tests and vulnerabilities.
+* Rearrange the Mind Map by websites functionalities and technologies.
 
 ---
 ## Get Started
