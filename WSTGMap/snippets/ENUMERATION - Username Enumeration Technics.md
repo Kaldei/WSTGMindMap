@@ -1,3 +1,5 @@
+#enumeration
+
 - Check for different HTTP Status codes.
 - Check for different Error Messages.
 	- "Invalid user" and "Invalid password" when the user exists. 

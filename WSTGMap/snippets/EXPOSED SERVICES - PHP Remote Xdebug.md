@@ -40,4 +40,4 @@ eval -i 1 -- JHZhcj1zY2FuZGlyKCcuJyk7
 - Add `$var` before the php command to get the output of the command in CLI debugger.
 - `-i 1`: Transaction ID (mandatory but number doesn't import).
 
-![[remote_xdebug-example.png]]
+![[remote_xdebug_example.png]]
