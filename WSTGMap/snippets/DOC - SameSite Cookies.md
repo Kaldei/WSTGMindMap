@@ -1,3 +1,5 @@
+#cookie 
+
 ## Ressource
 https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions
 

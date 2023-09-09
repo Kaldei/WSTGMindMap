@@ -13,7 +13,6 @@
 		{"type":"group","id":"26abf2f1c5dfd0aa","x":-4600,"y":27680,"width":1540,"height":192,"label":"WSTG8-ERRH — Error Handling"},
 		{"type":"group","id":"e5468b1f3e7d23ae","x":-4600,"y":34080,"width":1540,"height":116,"label":"WSTG12-APIT — API Testing"},
 		{"type":"file","file":"WSTGMap/snippets/DOC - Site vs Origin.md","id":"a28ac1562b63e871","x":-10280,"y":5900,"width":739,"height":464},
-		{"type":"file","file":"WSTGMap/snippets/DOC - SameSite Cookies.md","id":"2779f22a1444a61b","x":-9323,"y":5827,"width":1023,"height":609},
 		{"type":"file","file":"WSTGMap/snippets/CSRF - SameSite Lax Bypass (with method override form Sympfony).md","id":"5b1740badc636853","x":-8060,"y":5965,"width":1023,"height":334},
 		{"type":"file","file":"WSTGMap/snippets/CSRF - With Ability to Set Cookie for the Target.md","id":"0b23f4169da377a3","x":-8060,"y":6375,"width":1023,"height":350},
 		{"type":"file","file":"WSTGMap/snippets/CSRF - Basic CSRF.md","id":"6adabbf48960caf4","x":-5657,"y":5531,"width":967,"height":340},
@@ -23,7 +22,6 @@
 		{"type":"file","file":"WSTGMap/snippets/CSRF - Anti-CSRF Token Bypass when Possible to Set a Cookie for the Target.md","id":"23e0de9c3839aa59","x":-6780,"y":6349,"width":1038,"height":402},
 		{"type":"file","file":"WSTGMap/snippets/SESSION PUZZLING- PHP Register Globals.md","id":"6fe77b872b0bf938","x":-5657,"y":6882,"width":967,"height":395},
 		{"type":"file","file":"WSTGChecklist/snippets/WSTG6-SESS — Session Management Testing.md","id":"34e751a156ba2d99","x":-3060,"y":4660,"width":840,"height":464},
-		{"type":"file","file":"WSTGMap/snippets/SESSION FIXATION- Check for Session Fixation.md","id":"75ff0171b48b46da","x":-5660,"y":4931,"width":967,"height":221},
 		{"type":"file","file":"WSTGMap/attachments/broken_acess_control-test_4-insiderphd.png","id":"8a612a92fd0dd4a7","x":-7040,"y":3730,"width":661,"height":234},
 		{"type":"file","file":"WSTGMap/attachments/broken_acess_control-list-insiderphd.png","id":"3c8569a244523b53","x":-5657,"y":3176,"width":967,"height":501},
 		{"type":"file","file":"WSTGMap/snippets/FILE DOWNLOAD - IDOR.md","id":"382a5b72056d5ef4","x":-5657,"y":3745,"width":967,"height":180},
@@ -36,7 +34,6 @@
 		{"type":"text","text":"# WSTG-SESS-01 — Testing for Session Management Schema","id":"53a69db55f85da36","x":-4580,"y":4680,"width":1500,"height":50},
 		{"type":"text","text":"# WSTG-SESS-05 — Testing for Cross Site Request Forgery","id":"f5b5d2a0949de9fd","x":-4580,"y":7360,"width":1500,"height":50},
 		{"type":"text","text":"# WSTG-SESS-06 — Testing for Logout Functionality","id":"1d75f06435a699d6","x":-4580,"y":6480,"width":1500,"height":50},
-		{"type":"text","text":"# WSTG-SESS-03 — Testing for Session Fixation","id":"8c3319ec725d7d9e","x":-4580,"y":5017,"width":1500,"height":50},
 		{"type":"text","text":"# WSTG-SESS-04 — Testing for Exposed Session Variables","id":"fc0cc2cd04d6b517","x":-4580,"y":5320,"width":1500,"height":50},
 		{"type":"text","text":"# WSTG-ATHZ-04 — Testing for Insecure Direct Object References ","id":"b3980c0ab7dc09f1","x":-4580,"y":3605,"width":1500,"height":50},
 		{"type":"file","file":"WSTGMap/snippets/SQLi - DB Schema PostgreSQL.md","id":"c7233a95b83ea791","x":-6780,"y":12026,"width":1023,"height":330},
@@ -241,7 +238,11 @@
 		{"type":"file","file":"WSTGMap/snippets/GRAPHQL - Base.md","id":"51fdc13ba3851295","x":-5657,"y":33870,"width":967,"height":509},
 		{"type":"file","file":"WSTGMap/snippets/GRAPHQL - Mutation Query.md","id":"b5576f85c66115ec","x":-6820,"y":33968,"width":1063,"height":313},
 		{"type":"text","text":"# WSTG-CLNT-13 — Testing for Cross Site Script Inclusion","id":"81665cd5850afa31","x":-4580,"y":33446,"width":1500,"height":50},
-		{"type":"file","file":"WSTGMap/snippets/DOC - Headers.md","id":"ce170b2cdb6b1ec3","x":-6760,"y":-8538,"width":1023,"height":673}
+		{"type":"file","file":"WSTGMap/snippets/DOC - Headers.md","id":"ce170b2cdb6b1ec3","x":-6760,"y":-8538,"width":1023,"height":673},
+		{"type":"file","file":"WSTGMap/snippets/SESSION FIXATION- Check for Session Fixation.md","id":"75ff0171b48b46da","x":-5660,"y":5099,"width":967,"height":221},
+		{"type":"text","text":"# WSTG-SESS-03 — Testing for Session Fixation","id":"8c3319ec725d7d9e","x":-4580,"y":5185,"width":1500,"height":50},
+		{"type":"file","file":"WSTGMap/snippets/DOC - SameSite Cookies.md","id":"2779f22a1444a61b","x":-9320,"y":5756,"width":1023,"height":753},
+		{"id":"0dbff5d9c5e9d45c","x":-5654,"y":4735,"width":964,"height":260,"type":"file","file":"COOKIE - Check Cookies Attributes.md"}
 	],
 	"edges":[
 		{"id":"92e9a4b50113c157","fromNode":"23e0de9c3839aa59","fromSide":"left","toNode":"0b23f4169da377a3","toSide":"right"},
@@ -376,6 +377,8 @@
 		{"id":"05f62585c859d1b6","fromNode":"13d978c4a968b9ca","fromSide":"right","toNode":"b22a395793e1f4a9","toSide":"left"},
 		{"id":"846d34644d992ea7","fromNode":"ac7c1961dbf3ef4b","fromSide":"left","toNode":"b22a395793e1f4a9","toSide":"right"},
 		{"id":"0157f305ca5abf0a","fromNode":"13d978c4a968b9ca","fromSide":"left","toNode":"ce170b2cdb6b1ec3","toSide":"right"},
-		{"id":"5efa971add05b695","fromNode":"05324a2be8374df7","fromSide":"left","toNode":"ce170b2cdb6b1ec3","toSide":"right"}
+		{"id":"5efa971add05b695","fromNode":"05324a2be8374df7","fromSide":"left","toNode":"ce170b2cdb6b1ec3","toSide":"right"},
+		{"id":"0137f26245689336","fromNode":"0dbff5d9c5e9d45c","fromSide":"right","toNode":"4138f6c1976b2a2c","toSide":"left"},
+		{"id":"34c998ec538dabd5","fromNode":"0dbff5d9c5e9d45c","fromSide":"left","toNode":"2779f22a1444a61b","toSide":"right"}
 	]
 }
