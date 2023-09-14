@@ -9,4 +9,4 @@
 - [ ] WSTG-CONF-09 — Test File Permission
 - [ ] WSTG-CONF-10 — Test for Subdomain Takeover
 - [ ] WSTG-CONF-11 — Test Cloud Storage
-- [-] WSTG-CONF-12 — Testing for Content Security Policy **(Work in Progress in latest WSTG)**     
+- [ ] WSTG-CONF-12 — Testing for Content Security Policy **(Work in Progress in latest WSTG)**     

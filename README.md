@@ -10,8 +10,8 @@
 Create a mind map based on the OWASP's WSTG (Web Security Testing Guide) to help conduct web penetration tests.
 
 ### Repo Content
-* **WSTGMindMap:** Notes on various web vulnerabilities (based on the WSTG) in the form of a Mind Map using Obsidian's Canva feature. 
-* **WSGTChecklist:** Just the WSTG as a Markdown checklist.
+* **WSTG_Map:** Notes on various web vulnerabilities (based on the WSTG) in the form of a Mind Map using Obsidian's Canva feature. Also contains PNG export of the canvas (in light and dark theme).
+* **WSGT_Checklist:** Just the WSTG as a Markdown checklist.
 
 ### Todo List
 * Complete the Mind Map with missing tests and vulnerabilities.
@@ -19,12 +19,12 @@ Create a mind map based on the OWASP's WSTG (Web Security Testing Guide) to help
 
 ---
 ## Get Started
-1. If you have git, you can clone the repo with the following command (or you can directly download it as Zip):
+1. Clone the repo (or directly download it as Zip):
     ```sh
     git clone https://github.com/Caldei/PERSO-Obsidian-WSTGMindMap.git
     ```
 2. Open Obsidian, choose `Open folder as vault` and open the `PERSO-Obsidian-WSTGMap` folder.
-3. In Obsidian, go to the WSTGMindMap folder and open the WSTGMindMap canvas.
+3. In Obsidian, go to the WSTG_Map folder and open `WSTG_Map.canvas`.
 
 
 ---

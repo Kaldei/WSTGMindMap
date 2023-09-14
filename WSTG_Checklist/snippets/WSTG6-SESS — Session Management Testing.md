@@ -7,4 +7,4 @@
 - [ ] WSTG-SESS-07 — Testing Session Timeout
 - [ ] WSTG-SESS-08 — Testing for Session Puzzling
 - [ ] WSTG-SESS-09 — Testing for Session Hijacking
-- [-] WSTG-SESS-10 — Testing JSON Web Tokens **(Work in Progress in latest WSTG)**
+- [ ] WSTG-SESS-10 — Testing JSON Web Tokens **(Work in Progress in latest WSTG)**
