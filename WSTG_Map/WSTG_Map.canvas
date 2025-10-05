@@ -220,8 +220,6 @@
 		{"type":"file","file":"WSTG_Map/snippets/LOOSE COMPARAISON - PHP.md","id":"f0e3db7b894480f5","x":-2960,"y":-193,"width":1023,"height":956},
 		{"type":"text","text":"# WSTG-ATHZ-02 — Testing for Bypassing Authorization Schema  ","id":"31597777a27ff4c7","x":-4580,"y":713,"width":1500,"height":50},
 		{"type":"file","file":"WSTG_Map/snippets/SQLi - Login Bypass with no Entry in DB.md","id":"0d6d1b648ac2daab","x":-1800,"y":763,"width":1023,"height":540},
-		{"type":"file","file":"WSTG_Map/attachments/broken_acess_control-test_4-insiderphd.png","id":"8a612a92fd0dd4a7","x":-1800,"y":3588,"width":661,"height":234},
-		{"type":"file","file":"WSTG_Map/snippets/DOC - JWT Headers.md","id":"8dcf573ad4109bb2","x":-640,"y":2256,"width":1023,"height":475},
 		{"type":"file","file":"WSTG_Map/snippets/SQLi - Login Bypass.md","id":"decced42a5e43fba","x":-2960,"y":973,"width":1023,"height":660},
 		{"type":"file","file":"WSTG_Map/snippets/JWT - Header Injection.md","id":"df907cf76296ba91","x":-2960,"y":1760,"width":1023,"height":340},
 		{"type":"file","file":"WSTG_Map/snippets/JWT - Accepting Arbitrary or None Signature.md","id":"8f363a1028a14207","x":-2960,"y":2391,"width":1023,"height":260},
@@ -231,7 +229,9 @@
 		{"type":"file","file":"WSTG_Map/attachments/broken_acess_control-test_1-insiderphd.png","id":"bec444f8db0b2411","x":-1800,"y":2748,"width":661,"height":250},
 		{"type":"file","file":"WSTG_Map/attachments/broken_acess_control-test_2-insiderphd.png","id":"93e4bb6b050df631","x":-1800,"y":3023,"width":661,"height":250},
 		{"type":"file","file":"WSTG_Map/attachments/broken_acess_control-test_3-insiderphd.png","id":"6645195e2b045706","x":-1800,"y":3301,"width":661,"height":269},
-		{"type":"text","text":"# WSTG-ATHZ-03 — Testing for Privilege Escalation","id":"ed26c422edc342ae","x":-4580,"y":2496,"width":1500,"height":50}
+		{"type":"text","text":"# WSTG-ATHZ-03 — Testing for Privilege Escalation","id":"ed26c422edc342ae","x":-4580,"y":2496,"width":1500,"height":50},
+		{"type":"file","file":"WSTG_Map/snippets/DOC - JWT Headers.md","id":"8dcf573ad4109bb2","x":-640,"y":2256,"width":1023,"height":475},
+		{"type":"file","file":"WSTG_Map/attachments/broken_acess_control-test_4-insiderphd.png","id":"8a612a92fd0dd4a7","x":-1800,"y":3588,"width":661,"height":234}
 	],
 	"edges":[
 		{"id":"4a52612449cb67cb","fromNode":"54ae5d24ff249ad8","fromSide":"top","toNode":"a28ac1562b63e871","toSide":"bottom"},
